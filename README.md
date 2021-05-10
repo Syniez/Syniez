@@ -1,4 +1,6 @@
-[![Syniez's github stats](https://github-readme-stats.vercel.app/api?username=Syniez&count_private=True&custom_title=Syniez_status&bg_color=55,75C8FF,B6F7B0&title_color=000000&text_color=000000)](https://github.com/Syniez/github-readme-stats)
+[![Syniez's github stats](https://github-readme-stats.vercel.app/api?username=Syniez&count_private=True&custom_title=Syniez_status&bg_color=30,F9A5FF,75C8FF&title_color=E9E9E9&text_color=E9E9E9)](https://github.com/Syniez/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Syniez&layout=compact&bg_color=30,F9A5FF,75C8FF&title_color=E9E9E9&text_color=E9E9E9)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Syniez/Syniez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

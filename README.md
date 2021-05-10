@@ -1,4 +1,4 @@
-[![Syniez's github stats](https://github-readme-stats.vercel.app/api?username=Syniez&count_private=True)](https://github.com/Syniez/github-readme-stats)
+[![Syniez's github stats](https://github-readme-stats.vercel.app/api?username=Syniez&count_private=True&custom_title=Syniez_status&bg_color=55,75C8FF,B6F7B0&title_color=000000&text_color=000000)](https://github.com/Syniez/github-readme-stats)
 <!--
 **Syniez/Syniez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

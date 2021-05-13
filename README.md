@@ -1,4 +1,4 @@
-**Hi:sparkles: i'm undergraduate student in SeoulTech Univ.**
+**Hi:sparkles: i'm a student in SeoulTech Univ.**
 
 [![Syniez's github stats](https://github-readme-stats.vercel.app/api?username=Syniez&count_private=True&custom_title=Syniez_status&bg_color=30,F9A5FF,75C8FF&title_color=E9E9E9&text_color=E9E9E9)](https://github.com/Syniez/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Syniez&layout=compact&bg_color=30,F9A5FF,75C8FF&title_color=E9E9E9&text_color=E9E9E9)](https://github.com/anuraghazra/github-readme-stats)

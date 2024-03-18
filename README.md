@@ -1,4 +1,4 @@
-**Hi:sparkles: i'm a graduate student in UNIST.**
+**Hi I'm a graduate student in UNIST.**
 
 💫 About me: [Personal page](https://jongsunglee.notion.site/)
 

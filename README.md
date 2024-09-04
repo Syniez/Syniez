@@ -1,4 +1,4 @@
-**Hi I'm a graduate student in UNIST.**
+**Hi I'm a graduate student in UNIST, 3D Vision & Robotics Lab.**
 
 💫 About me: [Personal page](https://jongsunglee.notion.site/)
 
